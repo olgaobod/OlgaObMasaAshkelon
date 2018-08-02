@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OlgaObMasaAshkelon-selenium-test.iml" filepath="$PROJECT_DIR$/.idea/modules/OlgaObMasaAshkelon-selenium-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OlgaObMasaAshkelon-selenium-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/OlgaObMasaAshkelon-selenium-test_main.iml" group="selenium-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OlgaObMasaAshkelon-selenium-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/OlgaObMasaAshkelon-selenium-test_test.iml" group="selenium-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-tests_main.iml" group="addressbook-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-tests_test.iml" group="addressbook-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-test_main.iml" group="selenium-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-test_test.iml" group="selenium-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-tests_.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-tests_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-tests__main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-tests__main.iml" group="selenium-tests_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-tests__test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-tests__test.iml" group="selenium-tests_" />
+    </modules>
+  </component>
+</project>
